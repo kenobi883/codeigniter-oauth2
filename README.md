@@ -1,5 +1,7 @@
 # Codeigniter OAuth 2.0
 
+This is a fork of Phil Sturgeon's [OAuth 2.0 library](https://github.com/philsturgeon/codeigniter-oauth2).
+
 Authorize users with your application in a driver-base fashion meaning one implementation works for multiple OAuth 2 providers. This is only to authenticate onto OAuth2 providers and not to build an OAuth2 service.
 
 Note that this Spark ONLY provides the authorization mechanism. There's an example controller below, however in a later version there will be a full controller.
